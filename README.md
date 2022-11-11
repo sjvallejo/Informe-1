@@ -1,4 +1,8 @@
 # InformeTarea1
+
+Nombre: Steveen Vallejo
+
+
 ***1.  OBJETIVOS***
 
 _Aprender la notación científica para la simplificación cifras muy altas o muy pequeñas  
@@ -190,7 +194,7 @@ Estos resistores sirven para dividir la voltaje y para controlar corriente.
  
  =10000÷(2200+10000)= 0.82Ω
  
-  ***=======================EJERCICIOS CAPITULO 2========================================***
+  ***=======================EJERCICIOS CAPITULO 2=================================***
 
  **2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
  
